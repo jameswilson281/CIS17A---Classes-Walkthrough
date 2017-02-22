@@ -5,7 +5,7 @@ class Teacher
 {
 private:
 	std::string _name;
-public:
+public:	
 	Teacher(std::string name);
 	~Teacher();
 
